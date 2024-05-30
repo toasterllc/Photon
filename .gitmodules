@@ -1,0 +1,9 @@
+[submodule "MDCEnclosure"]
+	path = MDCEnclosure
+	url = git@github.com:toasterllc/MDCEnclosure.git
+[submodule "MDCBoard"]
+	path = MDCBoard
+	url = git@github.com:toasterllc/MDCBoard.git
+[submodule "MDCCode"]
+	path = MDCCode
+	url = git@github.com:toasterllc/MDCCode.git
