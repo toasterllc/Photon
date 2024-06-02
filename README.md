@@ -11,3 +11,9 @@ This repo contains the entirety of the code and hardware design files for the [P
 `MDCBoard`: Eagle design files for Photon's PCB
 
 `MDCEnclosure`: Fusion 360 design files for Photon's enclosure
+
+## Cloning
+
+Clone all  submodules at once using:
+
+`git clone --recursive git@github.com:toasterllc/Photon.git`
