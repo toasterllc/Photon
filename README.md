@@ -2,6 +2,8 @@
 
 This repo contains the entirety of the code and hardware design files for the [Photon camera](https://toaster.llc/photon).
 
+`MDC` stands for "motion detector camera".
+
 ## Organization
 
 `MDCCode`: firmware / software / Verilog for Photon's various chips
